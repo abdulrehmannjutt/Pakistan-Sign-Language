@@ -18,81 +18,81 @@ class UrduAlphabets extends StatelessWidget {
                 children: [
                   ListTile(
                     leading: CircleAvatar(child: Image.asset('images/hand.jpg')),
-                    trailing: Text('ا'),
+                    trailing: const Text('ا'),
                   ),
                   ListTile(
                     leading: CircleAvatar(child: Image.asset('images/hand.jpg')),
-                    trailing: Text('ب'),
+                    trailing: const Text('ب'),
                   ),
                   ListTile(
                     leading: CircleAvatar(child: Image.asset('images/hand.jpg')),
-                    trailing: Text('پ'),
+                    trailing: const Text('پ'),
                   ),
                   ListTile(
                     leading: CircleAvatar(child: Image.asset('images/hand.jpg')),
-                    trailing: Text('ت'),
+                    trailing: const Text('ت'),
                   ),
                   ListTile(
                     leading: CircleAvatar(child: Image.asset('images/hand.jpg')),
-                    trailing: Text('ٹ'),
+                    trailing: const Text('ٹ'),
                   ),
                   ListTile(
                     leading: CircleAvatar(child: Image.asset('images/hand.jpg')),
-                    trailing: Text('ث'),
+                    trailing: const Text('ث'),
                   ),
                   ListTile(
-                    leading: CircleAvatar(child: Image.asset('images/hand.jpg')),                    trailing: Text('ج'),
+                    leading: CircleAvatar(child: Image.asset('images/hand.jpg')),                    trailing: const Text('ج'),
                   ),
                   ListTile(
-                    leading: CircleAvatar(child: Image.asset('images/hand.jpg')),                    trailing: Text('چ'),
+                    leading: CircleAvatar(child: Image.asset('images/hand.jpg')),                    trailing: const Text('چ'),
                   ),
                   ListTile(
-                    leading: CircleAvatar(child: Image.asset('images/hand.jpg')),                    trailing: Text('ح'),
+                    leading: CircleAvatar(child: Image.asset('images/hand.jpg')),                    trailing: const Text('ح'),
                   ),
                   ListTile(
-                    leading: CircleAvatar(child: Image.asset('images/hand.jpg')),                    trailing: Text('خ'),
+                    leading: CircleAvatar(child: Image.asset('images/hand.jpg')),                    trailing: const Text('خ'),
                   ),
                   ListTile(
-                    leading: CircleAvatar(child: Image.asset('images/hand.jpg')),                    trailing: Text('د'),
+                    leading: CircleAvatar(child: Image.asset('images/hand.jpg')),                    trailing: const Text('د'),
                   ),
                   ListTile(
-                    leading: CircleAvatar(child: Image.asset('images/hand.jpg')),                    trailing: Text('ڈ'),
+                    leading: CircleAvatar(child: Image.asset('images/hand.jpg')),                    trailing: const Text('ڈ'),
                   ),
                   ListTile(
-                    leading: CircleAvatar(child: Image.asset('images/hand.jpg')),                    trailing: Text('ذ'),
+                    leading: CircleAvatar(child: Image.asset('images/hand.jpg')),                    trailing: const Text('ذ'),
                   ),
                   ListTile(
-                    leading: CircleAvatar(child: Image.asset('images/hand.jpg')),                    trailing: Text('ز'),
+                    leading: CircleAvatar(child: Image.asset('images/hand.jpg')),                    trailing: const Text('ز'),
                   ),
                   ListTile(
-                    leading: CircleAvatar(child: Image.asset('images/hand.jpg')),                    trailing: Text('ر'),
+                    leading: CircleAvatar(child: Image.asset('images/hand.jpg')),                    trailing: const Text('ر'),
                   ),
                   ListTile(
-                    leading: CircleAvatar(child: Image.asset('images/hand.jpg')),                    trailing: Text('ڑ'),
+                    leading: CircleAvatar(child: Image.asset('images/hand.jpg')),                    trailing: const Text('ڑ'),
                   ),
                   ListTile(
-                    leading: CircleAvatar(child: Image.asset('images/hand.jpg')),                    trailing: Text('ث'),
+                    leading: CircleAvatar(child: Image.asset('images/hand.jpg')),                    trailing: const Text('ث'),
                   ),
                   ListTile(
-                    leading: CircleAvatar(child: Image.asset('images/hand.jpg')),                    trailing: Text('ث'),
+                    leading: CircleAvatar(child: Image.asset('images/hand.jpg')),                    trailing: const Text('ث'),
                   ),
                   ListTile(
-                    leading: CircleAvatar(child: Image.asset('images/hand.jpg')),                    trailing: Text('ث'),
+                    leading: CircleAvatar(child: Image.asset('images/hand.jpg')),                    trailing: const Text('ث'),
                   ),
                   ListTile(
-                    leading: CircleAvatar(child: Image.asset('images/hand.jpg')),                    trailing: Text('ث'),
+                    leading: CircleAvatar(child: Image.asset('images/hand.jpg')),                    trailing: const Text('ث'),
                   ),
                   ListTile(
-                    leading: CircleAvatar(child: Image.asset('images/hand.jpg')),                    trailing: Text('ث'),
+                    leading: CircleAvatar(child: Image.asset('images/hand.jpg')),                    trailing: const Text('ث'),
                   ),
                   ListTile(
-                    leading: CircleAvatar(child: Image.asset('images/hand.jpg')),                    trailing: Text('ث'),
+                    leading: CircleAvatar(child: Image.asset('images/hand.jpg')),                    trailing: const Text('ث'),
                   ),
                   ListTile(
-                    leading: CircleAvatar(child: Image.asset('images/hand.jpg')),                    trailing: Text('ث'),
+                    leading: CircleAvatar(child: Image.asset('images/hand.jpg')),                    trailing: const Text('ث'),
                   ),
                   ListTile(
-                    leading: CircleAvatar(child: Image.asset('images/hand.jpg')),                    trailing: Text('ث'),
+                    leading: CircleAvatar(child: Image.asset('images/hand.jpg')),                    trailing: const Text('ث'),
                   ),
 
                 ],

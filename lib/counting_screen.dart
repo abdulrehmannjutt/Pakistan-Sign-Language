@@ -19,43 +19,43 @@ class Counting extends StatelessWidget{
                 children: [
                   ListTile(
                     leading: CircleAvatar(child: Image.asset('images/1.png')),
-                    trailing: Text('0'),
+                    trailing: const Text('0'),
                   ),
                   ListTile(
                     leading: CircleAvatar(child: Image.asset('images/1.png')),
-                    trailing: Text('1'),
+                    trailing: const Text('1'),
                   ),
                   ListTile(
                     leading: CircleAvatar(child: Image.asset('images/1.png')),
-                    trailing: Text('2'),
+                    trailing: const Text('2'),
                   ),
                   ListTile(
                     leading: CircleAvatar(child: Image.asset('images/1.png')),
-                    trailing: Text('3'),
+                    trailing: const Text('3'),
                   ),
                   ListTile(
                     leading: CircleAvatar(child: Image.asset('images/1.png')),
-                    trailing: Text('4'),
+                    trailing: const Text('4'),
                   ),
                   ListTile(
                     leading: CircleAvatar(child: Image.asset('images/1.png')),
-                    trailing: Text('5'),
+                    trailing: const Text('5'),
                   ),
                   ListTile(
                     leading: CircleAvatar(child: Image.asset('images/1.png')),
-                    trailing: Text('6'),
+                    trailing: const Text('6'),
                   ),
                   ListTile(
                     leading: CircleAvatar(child: Image.asset('images/1.png')),
-                    trailing: Text('7'),
+                    trailing: const Text('7'),
                   ),
                   ListTile(
                     leading: CircleAvatar(child: Image.asset('images/1.png')),
-                    trailing: Text('8'),
+                    trailing: const Text('8'),
                   ),
                   ListTile(
                     leading: CircleAvatar(child: Image.asset('images/1.png')),
-                    trailing: Text('9'),
+                    trailing: const Text('9'),
                   ),
                 ],
               );
